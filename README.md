@@ -1,13 +1,14 @@
-<!-- 
 
-# Project Title
 
-Simple overview of use/purpose.
+# Moto Data Logging
 
+Intended for use during track days to log speed, lean angle, gps location, acceleration, and more. 
+ 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+GPS Live location using NEO6M GPS module chip, WitMotion WT901, and Raspberry Pi.
 
+<!--
 ## Getting Started
 
 ### Dependencies
